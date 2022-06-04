@@ -2,4 +2,4 @@
 
 +hello world!
 
-1 print something
+1) print something
